@@ -1,0 +1,13 @@
+C:\Users\keorapetse.fani\source\repos\EPMicrosservices-Enterpise-app\src\BuildingBlocks\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.deps.json
+C:\Users\keorapetse.fani\source\repos\EPMicrosservices-Enterpise-app\src\BuildingBlocks\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.dll
+C:\Users\keorapetse.fani\source\repos\EPMicrosservices-Enterpise-app\src\BuildingBlocks\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.pdb
+C:\Users\keorapetse.fani\source\repos\EPMicrosservices-Enterpise-app\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.AssemblyReference.cache
+C:\Users\keorapetse.fani\source\repos\EPMicrosservices-Enterpise-app\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keorapetse.fani\source\repos\EPMicrosservices-Enterpise-app\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfoInputs.cache
+C:\Users\keorapetse.fani\source\repos\EPMicrosservices-Enterpise-app\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfo.cs
+C:\Users\keorapetse.fani\source\repos\EPMicrosservices-Enterpise-app\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Users\keorapetse.fani\source\repos\EPMicrosservices-Enterpise-app\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.sourcelink.json
+C:\Users\keorapetse.fani\source\repos\EPMicrosservices-Enterpise-app\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.dll
+C:\Users\keorapetse.fani\source\repos\EPMicrosservices-Enterpise-app\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\refint\BuildingBlocks.dll
+C:\Users\keorapetse.fani\source\repos\EPMicrosservices-Enterpise-app\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.pdb
+C:\Users\keorapetse.fani\source\repos\EPMicrosservices-Enterpise-app\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\ref\BuildingBlocks.dll
